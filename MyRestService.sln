@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRestService", "MyRestService.csproj", "{4C0ED9D0-4BE7-4639-9805-238DA2981AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0ED9D0-4BE7-4639-9805-238DA2981AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0ED9D0-4BE7-4639-9805-238DA2981AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0ED9D0-4BE7-4639-9805-238DA2981AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0ED9D0-4BE7-4639-9805-238DA2981AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57EAEE3-BCC1-482F-93C1-AC4C7B80A191}
+	EndGlobalSection
+EndGlobal
